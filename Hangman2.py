@@ -1,4 +1,3 @@
-#Bye
 guessthisword = "hello world"
 guessthisword = guessthisword.lower()
 correctword = []
